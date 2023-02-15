@@ -75,7 +75,7 @@
         <a id="switchEn" href="?locale=en">English</a>
       </c:when>
       <c:otherwise>
-        <a id="switchJa" href="?locale=ja">日本語21</a>
+        <a id="switchJa" href="?locale=ja">日本語22</a>
       </c:otherwise>
     </c:choose>
   </div>
